@@ -28,17 +28,19 @@
 		</header>
 	</div>
 	<!-- End Header Wrap-->
-	<div id="section">
-		<h1>In constructie</h1>
+	<div class="content-wrap">
+		<div class="container">
+			<h1 style="font-size: 22px">Pagină în construcție</h1>
+		</div>
 	</div>
-
 	<!-- footer section -->
 	<div id="footer">
 		<div class="container">
 			<div class="bottom-col">
 				<h4>Urmăriți-ne</h4>
 				<ul class="social">
-					<li class="facebook"><a href="#"></a></li>
+					<li class="facebook"><a
+						href="https://www.facebook.com/balticluj.napoca" target="_blank"></a></li>
 					<li class="twitter"><a href="#"></a></li>
 					<li class="odnoklassniki"><a href="#"></a></li>
 				</ul>
@@ -52,7 +54,7 @@
 				</div>
 				<div class="address">
 					<img style="padding-top: 1px" src="images/phone.png" alt=""><strong>Telefon:
-					</strong>+37369265880
+					</strong>+373 69 265 880
 				</div>
 				<div class="address">
 					<img style="padding-top: 3px" src="images/mail.png" alt=""><strong>Email:
@@ -61,6 +63,5 @@
 			</div>
 		</div>
 	</div>
-	>
 </body>
 </html>
